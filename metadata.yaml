@@ -1,5 +1,8 @@
 _repo: Essay-on-the-Trial-By-Jury_1201
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Spooner, Lysander
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/552
     wikipedia: http://en.wikipedia.org/wiki/Lysander_Spooner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1201#Essay-on-the-Trial-By-Jury
 gutenberg_issued: '1998-02-01'
 gutenberg_type: Text
 identifiers:
